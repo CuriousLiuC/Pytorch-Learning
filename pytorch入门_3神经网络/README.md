@@ -11,5 +11,3 @@
 ·反向传播，计算梯度
 
 ·更新网络梯度，一个简单的更新规则是 weight = weight - learning_rate * gradient
-
-\large{123}
